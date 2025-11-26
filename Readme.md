@@ -46,24 +46,7 @@ The model follows a **Star Schema** and includes:
     Sales KPI = 
     IF([Total Sales] >= [Sales Target], "On Track", "Below Target")
 
-## 📂 File Contents
 
-  -----------------------------------------------------------------------
-  File                   Description
-  ---------------------- ------------------------------------------------
-  **Session6\_.pbix**    Power BI report containing all visuals, KPIs,
-                         and data modeling
-
-  -----------------------------------------------------------------------
-
-## 📥 How to Use
-
-1.  Download the `.pbix` file\
-2.  Open it in **Power BI Desktop**\
-3.  Refresh data if required\
-4.  Explore the interactive visuals
-
-## 🤝 Contributions
 
 Open to suggestions and improvements.
 
