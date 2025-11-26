@@ -46,10 +46,3 @@ The model follows a **Star Schema** and includes:
     Sales KPI = 
     IF([Total Sales] >= [Sales Target], "On Track", "Below Target")
 
-
-
-Open to suggestions and improvements.
-
-## 📄 License
-
-MIT License
